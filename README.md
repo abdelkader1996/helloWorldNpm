@@ -9,7 +9,7 @@ Ce plugin audio simple est conçu pour ajouter un nœud de gain et un nœud de f
 ## Installation
 
 Pour installer ce plugin, vous devez exécuter la commande suivante :
-npm install mon-plugin-audio-simple
+npm install 
 
 ## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer à ce plugin audio simple, suivez les étapes suivantes :
