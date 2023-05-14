@@ -1,0 +1,20 @@
+{
+  "name": "qfb",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@webaudiomodules/api": "^2.0.0-alpha.6",
+    "@webaudiomodules/sdk": "^0.0.11",
+    "@webaudiomodules/sdk-parammgr": "^0.0.11"
+  }
+}
