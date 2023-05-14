@@ -1,21 +1,17 @@
-HelloWorldPlugin using npm
+# Nom du Plugin
+
 Le plugin audio simple
 
-Description
+## Description
+
 Ce plugin audio simple est conçu pour ajouter un nœud de gain et un nœud de feedback à votre chaîne de traitement audio. Il est destiné à être utilisé dans des projets nécessitant des fonctionnalités basiques de traitement audio.
 
-Installation
+## Installation
+
 Pour installer ce plugin, vous devez exécuter la commande suivante :
+npm install mon-plugin-audio-simple
 
-npm install 
-Assurez-vous d'avoir Node.js installé sur votre système.
-
-Utilisation
-Pour utiliser ce plugin dans votre projet, vous devez d'abord l'importer dans votre dossier packages
-
-
-
-Contribuer
+## Contribuer
 Les contributions sont les bienvenues ! Pour contribuer à ce plugin audio simple, suivez les étapes suivantes :
 
 Fork ce dépôt de code.
@@ -26,8 +22,9 @@ Poussez la branche : git push origin ma-nouvelle-fonctionnalite
 Soumettez une pull request.
 Nous examinerons votre contribution avec attention et vous remercions d'avance pour votre implication.
 
-Licence
+## Licence
 
 
-Contact
-Si vous avez des questions, des suggestions ou des problèmes liés à ce plugin, n'hésitez pas à nous contacter à l'adresse suivante : k.abdelkader1996@gmail.com.
+## Contact
+Si vous avez des questions, des suggestions ou des problèmes liés à ce plugin, n'hésitez pas à nous contacter à l'adresse suivante : k.abdelkader1996@gmail.com
+
